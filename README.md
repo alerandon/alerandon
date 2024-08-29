@@ -12,6 +12,7 @@
 
 ## My Skills
 <p align="left">
+  <a href="https://expressjs.com/es/"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" width=40 height=40 alt="Express" /></a>
   <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" width=40 height=40 alt="NodeJS" /></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-plain-wordmark.svg" width=40 height=40 alt="MongoDB" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" width=40 height=40 alt="Typescript" /></a>
