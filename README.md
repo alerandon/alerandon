@@ -1,16 +1,17 @@
-## Hello! 👋 Nice to meet you...
+## 👋 Hello! Nice to meet you...
 
-### My name is Alejandro and I'm a developer 💻🚀
+### 🚀 Alejandro: Software Engineer
 
-* 🌍 I'm based from Caracas, Venezuela
-* ✨ Mastering Laravel and JavaScript/Node technologies
-* 📖 Actually seeking to deepen on DevOps and Software Architecture
-* 🤠 Coding as fast as the gunslingers of the old west
-* 👁️ Check out the start of my <a href="https://my-journey-begins.vercel.app/" target="_blank" rel="noreferrer">programming journey</a>
-* 🚄 Always coming across new technologies on the fly
-* 😀 Did you got here? Then check below my skills repertoire!
+* 🌍 Based in Caracas, Venezuela  
+* ✨ Mastering Laravel and JavaScript/Node technologies  
+* 📖 Currently diving deeper into DevOps and Software Architecture  
+* 🤠 Coding as fast as the gunslingers of the old west  
+* 👁️ [Start of my programming journey](https://my-journey-begins.vercel.app/)  
+* 🚄 Always exploring the latest in tech  
+* 😀 Did you get here? Check out my skills repertoire below!
 
-## My Skills
+### 🛠️ My Skills
+
 <p align="left">
   <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" width=40 height=40 alt="NodeJS" /></a>
   <a href="https://expressjs.com/es/"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" width=40 height=40 alt="Express" /></a>
@@ -26,17 +27,19 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
 </p>
 
-<!--
-**alerandon/alerandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Click to expand</summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alerandon&show_icons=true&theme=radical" alt="alerandon's GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alerandon&theme=radical" alt="alerandon's GitHub Streak" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alerandon&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <sub><em>If stats fail to load, please refresh the page or check back later!</em></sub>
+  </p>
+</details>
