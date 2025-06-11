@@ -3,7 +3,7 @@
 ### 🚀 Alejandro: Software Engineer
 
 * 🌍 Based in Caracas, Venezuela  
-* ✨ Mastering Laravel and Node.js technologies  
+* ✨ Mastering Node.js and Laravel technologies
 * 📖 Currently diving deeper into DevOps and Software Architecture  
 * 🤠 Coding as fast as the gunslingers of the old west  
 * 👁️ [Start of my programming journey](https://my-journey-begins.vercel.app/)  
